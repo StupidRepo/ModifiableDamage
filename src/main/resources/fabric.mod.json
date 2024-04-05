@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "modifiable_damage",
+  "version": "${version}",
+  "name": "Modifiable Damage",
+  "description": "Change how much damage you take from certain sources!",
+  "authors": [
+    "StupidRepo"
+  ],
+  "contact": {
+    "repo": "https://github.com/StupidRepo/ModifiableDamage"
+  },
+  "license": "MIT",
+  "icon": "assets/modifiable_damage/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.stupidrepo.modifiable_damage.ModifiableDamage"
+    ],
+    "client": [
+      "com.stupidrepo.modifiable_damage.client.ModifiableDamageClient"
+    ]
+  },
+  "mixins": [
+    "modifiable_damage.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

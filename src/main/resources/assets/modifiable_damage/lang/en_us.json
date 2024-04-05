@@ -1,0 +1,34 @@
+{
+  "modifiable_damage.midnightconfig.title": "Modifiable Damage",
+
+  "modifiable_damage.midnightconfig.wannasupport": "Want to support me by donating? Click on the Support Me tab for links!",
+  "modifiable_damage.midnightconfig.kofi": "Buy me a Hot Chocolate on Ko-fi: https://ko-fi.com/StupidRepo",
+
+  "modifiable_damage.midnightconfig.generalMultiplier": "General Damage Multiplier",
+    "modifiable_damage.midnightconfig.generalMultiplier.tooltip": "Multiplies overall damage of everything. Does not multiply the damage of things that are listed below.",
+
+  "modifiable_damage.midnightconfig.drownMultiplier": "Drowning Damage Multiplier",
+    "modifiable_damage.midnightconfig.drownMultiplier.tooltip": "Multiplies drowning damage.",
+
+  "modifiable_damage.midnightconfig.burnMultiplier": "Burning Damage Multiplier",
+      "modifiable_damage.midnightconfig.burnMultiplier.tooltip": "Multiplies damage from being in or on fire.",
+  "modifiable_damage.midnightconfig.magmaMultiplier": "Magma Damage Multiplier",
+      "modifiable_damage.midnightconfig.magmaMultiplier.tooltip": "Multiplies damage of standing on Magma Blocks.",
+  "modifiable_damage.midnightconfig.lavaMultiplier": "Lava Damage Multiplier",
+      "modifiable_damage.midnightconfig.lavaMultiplier.tooltip": "Multiplies damage of being in lava.",
+
+  "modifiable_damage.midnightconfig.fallMultiplier": "Falling Damage Multiplier",
+    "modifiable_damage.midnightconfig.fallMultiplier.tooltip": "Multiplies fall damage.",
+
+  "modifiable_damage.midnightconfig.freezeMultiplier": "Freezing Damage Multiplier",
+    "modifiable_damage.midnightconfig.freezeMultiplier.tooltip": "Multiplies freezing damage.",
+
+  "modifiable_damage.midnightconfig.starveMultiplier": "Starving Damage Multiplier",
+    "modifiable_damage.midnightconfig.starveMultiplier.tooltip": "Multiplies starving damage.",
+
+  "modifiable_damage.midnightconfig.category.multipliers": "Multipliers",
+  "modifiable_damage.midnightconfig.category.supportme": "Support Me",
+  "modifiable_damage.midnightconfig.category.other": "Other",
+
+  "unused.for.ide.purposes": "Hi :)"
+}
